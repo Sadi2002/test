@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 105vh;
+}
+h1 {
+  color: red;
+  font-size: 100px;
+}
+p {
+  color: green;
+  font-size: 50px;
+}
+span {
+  color: brown;
+}
